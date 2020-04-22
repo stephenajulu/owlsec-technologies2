@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com"
+baseURL = "https://v2.owlsectechnologies.co.ke/"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
